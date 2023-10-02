@@ -1,0 +1,36 @@
+3D Objects/
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Local Settings@
+Music/
+My Documents@
+NTUSER.DAT
+NTUSER.DAT{134b5af8-c97e-11ed-b7a8-a791b7c062b8}.TM.blf
+NTUSER.DAT{134b5af8-c97e-11ed-b7a8-a791b7c062b8}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{134b5af8-c97e-11ed-b7a8-a791b7c062b8}.TMContainer00000000000000000002.regtrans-ms
+NetHood@
+OneDrive/
+Pictures/
+PrintHood@
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Start Menu@
+Templates@
+Videos/
+Wavesor Software/
+ZOOMMM/
+importantFile.txt
+mintty.2023-09-27_09-04-58.png
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+someFileWithStuff.txt
